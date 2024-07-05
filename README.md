@@ -1,5 +1,5 @@
 # Dnsenum GUI
-
+## Version 1.0.0
 Dnsenum GUI is a PyQt-based graphical user interface for the `dnsenum` tool, designed to make DNS enumeration tasks easier and more accessible. This application allows users to configure and run `dnsenum` commands through a user-friendly interface without the need to use the command line.
 
 ## Features
